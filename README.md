@@ -28,19 +28,6 @@ Stay tuned for our initial modules and prototypes — coming soon.
 
 ---
 
-## 🌠 Vision
-
-We envision a future where intelligent systems do not merely react to the present,  
-but perceive across time — remembering, anticipating, and evolving meaning.
-
-Perceptora aims to lay the groundwork for time-aware, self-adjusting AI  
-that can form internal worlds, recognize shifting patterns, and reason through conceptual change.
-
-In doing so, we seek to redefine intelligence not as a static solver,  
-but as a dynamic participant in a shared and evolving semantic space.
-
----
-
 ## 📜 License
 
-This project will be released under a permissive open-source license MIT.
+This project will be released under a permissive open-source license Apache 2.0.
