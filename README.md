@@ -1,2 +1,46 @@
-# .github
-Building open foundations for time-aware, perceptual intelligence and evolving conceptual reasoning.
+# Perceptora
+
+**Perceptora** is an open research initiative dedicated to building the next generation of perceptual intelligence — systems that understand the world through time-aware vision, dynamic reasoning, and concept evolution.
+
+Our mission is to bridge the gap between perception and cognition by designing AI agents that can:
+- perceive the world with temporal awareness,
+- refine their understanding through active feedback,
+- simulate internal models of reality, and
+- form and evolve concepts across time and experience.
+
+This project integrates insights from cognitive science, neuroscience, artificial life, and philosophy of mind into modular, reproducible, and openly extensible architectures.
+
+---
+
+## 🔬 Core Themes
+
+- **Latent Temporal Embedding (LTe)**: Perceiving with temporal context  
+- **Perceptual Recurrent Loop (PRL)**: Feedback-driven recognition and refinement  
+- **Active World Model (AWM)**: Predictive internal simulation of the environment  
+- **Dynamic Concept Lattice (DCL)**: Meaning and value shaped by history and relations  
+
+---
+
+## 🌱 Get Involved
+
+We welcome collaborations with researchers, developers, and philosophers who share an interest in time-aware AI, cognitive modeling, and open-source intelligence.  
+Stay tuned for our initial modules and prototypes — coming soon.
+
+---
+
+## 🌠 Vision
+
+We envision a future where intelligent systems do not merely react to the present,  
+but perceive across time — remembering, anticipating, and evolving meaning.
+
+Perceptora aims to lay the groundwork for time-aware, self-adjusting AI  
+that can form internal worlds, recognize shifting patterns, and reason through conceptual change.
+
+In doing so, we seek to redefine intelligence not as a static solver,  
+but as a dynamic participant in a shared and evolving semantic space.
+
+---
+
+## 📜 License
+
+This project will be released under a permissive open-source license MIT.
